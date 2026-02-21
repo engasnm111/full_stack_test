@@ -18,6 +18,13 @@ Follow these steps to get the project running on your local machine.
 - Node.js
 - PostgreSQL
 
+### 📥 0. Clone the Repository
+First, clone the project to your local machine:
+
+```bash
+git clone https://github.com/engasnm111/full_stack_test.git
+```
+
 ### 1. Backend Setup
 Navigate to the backend directory:
 ```bash
